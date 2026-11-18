@@ -1,4 +1,4 @@
-# KahveCell
+
 
 Kahve abonelik platformu için ayrı `frontend` ve `backend` klasörleri içeren uçtan uca demo uygulaması.
 
